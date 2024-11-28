@@ -4,7 +4,7 @@
 
 ![banner](./assets/readme_banner.jpg)  
 
-#### Advancing arboreal wildlife monitoring in the Neotropics
+### Advancing arboreal wildlife monitoring in the Neotropics
 
 </div>
 
