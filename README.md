@@ -26,7 +26,7 @@ Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unpar
 - Additional dependencies will be downloaded from `environment.yaml`.  
 
 ### Quick start
-Open a Miniforge or Anaconda command prompt (depending on if you installed Miniforge or Miniconda), then type:
+Open a Miniforge or Anaconda command prompt (depending on whether you installed Miniforge or Miniconda), then type:
 ```bash  
 # Clone the repository  
 git clone https://github.com/andrewzamp/TropiCam.git  
