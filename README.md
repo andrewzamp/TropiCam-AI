@@ -21,8 +21,8 @@ Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unpar
 ## 🖥️ **Installation**  
 
 ### Prerequisites  
-- Python >= 3.x  
-- PyTorch >= x.x.x  
+- Miniconda or Miniforge  
+- git 
 - Additional dependencies listed in `requirements.txt`.  
 
 ### Quick Start  
@@ -32,7 +32,4 @@ git clone https://github.com/username/TropiCam.git
 cd TropiCam  
 
 # Install dependencies  
-pip install -r requirements.txt  
-
-# Run the classifier on sample data  
-python classify.py --input sample_images/  
+pip install -r requirements.txt 
