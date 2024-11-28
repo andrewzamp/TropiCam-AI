@@ -4,7 +4,9 @@
 
 ![banner](./assets/readme_banner.jpg)  
 
-Advancing Arboreal Wildlife Monitoring in the Neotropics
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624)]([https://huggingface.co](https://huggingface.co/spaces/andrewzamp/arboreal-Amazon-demo))
+
+## Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 </div>
 
