@@ -10,7 +10,7 @@ Surveying arboreal wildlife in tropical rainforests has long been a challenging 
 
 Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unparalleled accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in the world's most ecologically diverse regions.  
 
-### Key Features  
+### Key features  
 - 🐒 Automated classification of **70+ arboreal species**.  
 - 📊 High accuracy: **~90% at species level**, **99% at class level**.  
 - 🌐 Trained on **200,000+ images** from Brazil, Peru, Costa Rica, and French Guiana.  
@@ -25,10 +25,10 @@ Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unpar
 - [git](https://git-scm.com/downloads "Install git")
 - Additional dependencies listed in `requirements.txt`.  
 
-### Quick Start  
+### Quick start  
 ```bash  
 # Clone the repository  
-git clone https://github.com/username/TropiCam.git  
+git clone https://github.com/andrewzamp/TropiCam.git  
 cd TropiCam  
 
 # Install dependencies  
