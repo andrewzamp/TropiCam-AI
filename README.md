@@ -1,6 +1,6 @@
 # 🌴 **TropiCam 1.0**: Advancing arboreal wildlife monitoring in the Neotropics  
 
-![Logo or Banner Image Here](https://via.placeholder.com/800x200?text=Add+a+TropiCam+banner)  
+![banner](./assets/readme-banner.jpg)  
 
 ---
 
@@ -25,7 +25,8 @@ Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unpar
 - [git](https://git-scm.com/downloads "Install git")
 - Additional dependencies will be downloaded from `environment.yaml`.  
 
-### Quick start  
+### Quick start
+Open a Miniforge or Anaconda command prompt (depending on if you installed Miniforge or Miniconda), then type:
 ```bash  
 # Clone the repository  
 git clone https://github.com/andrewzamp/TropiCam.git  
