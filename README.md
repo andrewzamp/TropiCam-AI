@@ -1,8 +1,17 @@
-# 🌴 **TropiCam 1.0**: Advancing arboreal wildlife monitoring in the Neotropics  
+<div align="center">
 
-![banner](./assets/readme-banner.jpg)  
+# 🌴 **TropiCam 1.0**  
+
+![banner](./assets/readme_banner.jpg)  
+
+Advancing Arboreal Wildlife Monitoring in the Neotropics with AI
 
 ---
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624)](https://huggingface.co/spaces/andrewzamp/TropiCam-demo)
+
+</div>
+
 
 ## 📜 **Overview**  
 
@@ -26,12 +35,12 @@ Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unpar
 - Additional dependencies will be downloaded from `environment.yaml`.  
 
 ### Quick start
-Open a Miniforge or Anaconda command prompt (depending on if you installed Miniforge or Miniconda), then type:
+Open a Miniforge or Anaconda command prompt (depending on whether you installed Miniforge or Miniconda), then type:
 ```bash  
 # Clone the repository  
 git clone https://github.com/andrewzamp/TropiCam.git  
 cd TropiCam  
 
 # Create and activate the environment  
-conda create -n TropiCam -f environment.yaml -y
+conda create -f environment.yaml -y
 conda activate TropiCam
