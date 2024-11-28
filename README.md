@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🌴 **TropiCam 1.0**: Advancing arboreal wildlife monitoring in the Neotropics  
 
-![banner](./assets/readme-banner.jpg)  
+![banner](./assets/readme_banner.jpg)  
+
+</div>
 
 ---
 
