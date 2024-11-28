@@ -32,4 +32,4 @@ git clone https://github.com/andrewzamp/TropiCam.git
 cd TropiCam  
 
 # Install dependencies  
-pip install -r requirements.txt 
+conda create -n TropiCam -f requirements.txt -y 
