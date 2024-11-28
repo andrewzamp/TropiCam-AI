@@ -1,12 +1,14 @@
 <div align="center">
 
-# 🌴 **TropiCam 1.0: Advancing Arboreal Wildlife Monitoring in the Neotropics**  
+# 🌴 **TropiCam 1.0**  
 
 ![banner](./assets/readme_banner.jpg)  
 
+Advancing Arboreal Wildlife Monitoring in the Neotropics
+
 ---
 
-[![🤗 Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624)](https://huggingface.co/spaces/andrewzamp/arboreal-Amazon-demo)
+[![🤗 Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/andrewzamp/arboreal-Amazon-demo)
 
 </div>
 
