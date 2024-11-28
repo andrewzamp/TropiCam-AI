@@ -1,4 +1,4 @@
-# 🌴 **TropiCam 1.0**: Advancing Arboreal Wildlife Monitoring with AI  
+# 🌴 **TropiCam 1.0**: Advancing arboreal wildlife monitoring in the Neotropics  
 
 ![Logo or Banner Image Here](https://via.placeholder.com/800x200?text=Add+a+TropiCam+banner)  
 
