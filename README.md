@@ -31,5 +31,5 @@ Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unpar
 git clone https://github.com/andrewzamp/TropiCam.git  
 cd TropiCam  
 
-# Install dependencies  
+# Create and activate environment  
 conda create -n TropiCam -f requirements.txt -y 
