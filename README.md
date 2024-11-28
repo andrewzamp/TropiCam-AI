@@ -32,5 +32,5 @@ git clone https://github.com/andrewzamp/TropiCam.git
 cd TropiCam  
 
 # Create and activate the environment  
-conda create -n TropiCam -f requirements.txt -y
+conda create -n TropiCam -f environment.yaml -y
 conda activate TropiCam
