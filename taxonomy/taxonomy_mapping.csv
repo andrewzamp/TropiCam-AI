@@ -1,64 +1,64 @@
-﻿species,genus,family,order,class
-Alouatta_palliata,Alouatta,Atelidae,Primates,Mammalia
-Alouatta_seniculus,Alouatta,Atelidae,Primates,Mammalia
-Aotus_nancymaae,Aotus,Aotidae,Primates,Mammalia
-Aotus_nigriceps,Aotus,Aotidae,Primates,Mammalia
-Aotus_vociferans,Aotus,Aotidae,Primates,Mammalia
-Ateles_chamek,Ateles,Atelidae,Primates,Mammalia
-Ateles_geoffroyi,Ateles,Atelidae,Primates,Mammalia
-Bassaricyon_alleni,Bassaricyon,Procyonidae,Carnivora,Mammalia
-Brachyteles_spp,Brachyteles,Atelidae,Primates,Mammalia
-Bradypus_variegatus,Bradypus,Bradypodidae,Pilosa,Mammalia
-Cacajao_calvus,Cacajao,Pitheciidae,Primates,Mammalia
-Callicebus_spp,Callicebus,Pitheciidae,Primates,Mammalia
-Callithrix_spp,Callithrix,Callitrichidae,Primates,Mammalia
-Caluromys_lanatus,Caluromys,Didelphidae,Didelphimorphia,Mammalia
-Cebuella_spp,Cebuella,Callitrichidae,Primates,Mammalia
-Cebus_albifrons,Cebus,Cebidae,Primates,Mammalia
-Cebus_imitator,Cebus,Cebidae,Primates,Mammalia
-Cheracebus_lucifer,Cheracebus,Pitheciidae,Primates,Mammalia
-Cheracebus_regulus,Cheracebus,Pitheciidae,Primates,Mammalia
-Cheracebus_torquatus,Cheracebus,Pitheciidae,Primates,Mammalia
-Chiropotes_spp,Chiropotes,Pitheciidae,Primates,Mammalia
-Choloepus_didactylus,Choloepus,Megalonychidae,Pilosa,Mammalia
-Choloepus_hoffmanni,Choloepus,Megalonychidae,Pilosa,Mammalia
-Coendou_bicolor,Coendou,Erethizontidae,Rodentia,Mammalia
-Coendou_ichillus,Coendou,Erethizontidae,Rodentia,Mammalia
-Coendou_prehensilis,Coendou,Erethizontidae,Rodentia,Mammalia
-Cyclopes_didactylus,Cyclopes,Cyclopedidae,Pilosa,Mammalia
-Didelphis_marsupialis,Didelphis,Didelphidae,Didelphimorphia,Mammalia
-Eira_barbara,Eira,Mustelidae,Carnivora,Mammalia
-Lagothrix_lagotricha,Lagothrix,Atelidae,Primates,Mammalia
-Leontocebus_fuscicollis,Leontocebus,Callitrichidae,Primates,Mammalia
-Leontocebus_nigricollis,Leontocebus,Callitrichidae,Primates,Mammalia
-Leontocebus_weddelli,Leontocebus,Callitrichidae,Primates,Mammalia
-Leontopithecus_spp,Leontopithecus,Cebidae,Primates,Mammalia
-Leopardus_spp,Leopardus,Felidae,Carnivora,Mammalia
-Metachirus_nudicaudatus,Metachirus,Didelphidae,Didelphimorphia,Mammalia
-Mico_spp,Mico,Callitrichidae,Primates,Mammalia
-Monasa_morphoeus,Monasa,Bucconidae,Piciformes,Aves
-Morphnus_guianensis,Morphnus,Accipitridae,Accipitriformes,Aves
-Nasua_nasua,Nasua,Procyonidae,Carnivora,Mammalia
-Oedipomidas_spp,Oedipomidas,Callitrichidae,Primates,Mammalia
-Penelope_jacquacu,Penelope,Cracidae,Galliformes,Aves
-Pipile_cumanensis,Pipile,Cracidae,Galliformes,Aves
-Pithecia_hirsuta,Pithecia,Pitheciidae,Primates,Mammalia
-Pithecia_irrorata,Pithecia,Pitheciidae,Primates,Mammalia
-Pithecia_monachus,Pithecia,Pitheciidae,Primates,Mammalia
-Plecturocebus_cupreus,Plecturocebus,Pitheciidae,Primates,Mammalia
-Plecturocebus_toppini,Plecturocebus,Pitheciidae,Primates,Mammalia
-Potos_flavus,Potos,Procyonidae,Carnivora,Mammalia
-Pteroglossus_spp,Pteroglossus,Ramphastidae,Piciformes,Aves
-Pyrrhura_lucianii,Pyrrhura,Psittacidae,Psittaciformes,Aves
-Ramphastos_spp,Ramphastos,Ramphastidae,Piciformes,Aves
-Rodentia_spp,Rodentia,Rodentia_spp,Rodentia,Mammalia
-Saguinus_spp,Saguinus,Callitrichidae,Primates,Mammalia
-Saimiri_boliviensis,Saimiri,Cebidae,Primates,Mammalia
-Saimiri_sciureus,Saimiri,Cebidae,Primates,Mammalia
-Sapajus_apella,Sapajus,Cebidae,Primates,Mammalia
-Sciurus_spadiceus,Sciurus,Sciuridae,Rodentia,Mammalia
-Selenidera_spp,Selenidera,Ramphastidae,Piciformes,Aves
-Sittasomus_griseicapillus,Sittasomus,Furnariidae,Passeriformes,Aves
-Tamandua_tetradactyla,Tamandua,Myrmecophagidae,Pilosa,Mammalia
-Tamarinus_imperator,Saguinus,Callitrichidae,Primates,Mammalia
-Tamarinus_mystax,Saguinus,Callitrichidae,Primates,Mammalia
+﻿species,genus,family,order,class,common_name
+Alouatta_palliata,Alouatta,Atelidae,Primates,Mammalia,Mantled howler monkey
+Alouatta_seniculus,Alouatta,Atelidae,Primates,Mammalia,Red howler monkey
+Aotus_nancymaae,Aotus,Aotidae,Primates,Mammalia,Nancy Ma's night monkey
+Aotus_nigriceps,Aotus,Aotidae,Primates,Mammalia,Black-headed night monkey
+Aotus_vociferans,Aotus,Aotidae,Primates,Mammalia,Spix's night monkey
+Ateles_chamek,Ateles,Atelidae,Primates,Mammalia,Black spider monkey
+Ateles_geoffroyi,Ateles,Atelidae,Primates,Mammalia,Central-American spider monkey
+Bassaricyon_alleni,Bassaricyon,Procyonidae,Carnivora,Mammalia,Allen's olingo
+Brachyteles_spp.,Brachyteles,Atelidae,Primates,Mammalia,Woolly spider monkey
+Bradypus_variegatus,Bradypus,Bradypodidae,Pilosa,Mammalia,Brown-throated three-toed sloth
+Cacajao_calvus,Cacajao,Pitheciidae,Primates,Mammalia,White bald-headed uacari
+Callicebus_spp.,Callicebus,Pitheciidae,Primates,Mammalia,Titi monkey
+Callithrix_spp.,Callithrix,Callitrichidae,Primates,Mammalia,Atlantic forest marmoset
+Caluromys_lanatus,Caluromys,Didelphidae,Didelphimorphia,Mammalia,Brown-eared woolly opossum
+Cebuella_spp.,Cebuella,Callitrichidae,Primates,Mammalia,Pygmy marmoset
+Cebus_albifrons,Cebus,Cebidae,Primates,Mammalia,White-fronted capuchin monkey
+Cebus_imitator,Cebus,Cebidae,Primates,Mammalia,Panamanian white-faced capuchin monkey
+Cheracebus_lucifer,Cheracebus,Pitheciidae,Primates,Mammalia,Yellow-handed titi
+Cheracebus_regulus,Cheracebus,Pitheciidae,Primates,Mammalia,Rio Juruá collared titi
+Cheracebus_torquatus,Cheracebus,Pitheciidae,Primates,Mammalia,White-collared titi
+Chiropotes_spp.,Chiropotes,Pitheciidae,Primates,Mammalia,Bearded saki
+Choloepus_didactylus,Choloepus,Megalonychidae,Pilosa,Mammalia,Southern two-toed sloth
+Choloepus_hoffmanni,Choloepus,Megalonychidae,Pilosa,Mammalia,Hoffmann's two-toed sloth
+Coendou_bicolor,Coendou,Erethizontidae,Rodentia,Mammalia,Bicolored-spined porcupine
+Coendou_ichillus,Coendou,Erethizontidae,Rodentia,Mammalia,Western Amazonian dwarf porcupine
+Coendou_prehensilis,Coendou,Erethizontidae,Rodentia,Mammalia,Prehensile-tailed porcupine
+Cyclopes_didactylus,Cyclopes,Cyclopedidae,Pilosa,Mammalia,Silky anteater
+Didelphis_marsupialis,Didelphis,Didelphidae,Didelphimorphia,Mammalia,Common opossum
+Eira_barbara,Eira,Mustelidae,Carnivora,Mammalia,Tayra
+Lagothrix_lagotricha,Lagothrix,Atelidae,Primates,Mammalia,Humboldt's woolly monkey
+Leontocebus_fuscicollis,Leontocebus,Callitrichidae,Primates,Mammalia,Spix's saddle-back tamarin
+Leontocebus_nigricollis,Leontocebus,Callitrichidae,Primates,Mammalia,Black-mantled tamarin
+Leontocebus_weddelli,Leontocebus,Callitrichidae,Primates,Mammalia,Weddell's saddle-back tamarin
+Leontopithecus_spp.,Leontopithecus,Cebidae,Primates,Mammalia,Lion tamarin
+Leopardus_wiedii,Leopardus,Felidae,Carnivora,Mammalia,Margay
+Metachirus_nudicaudatus,Metachirus,Didelphidae,Didelphimorphia,Mammalia,Brown four-eyed opossum
+Mico_spp.,Mico,Callitrichidae,Primates,Mammalia,Marmoset
+Monasa_morphoeus,Monasa,Bucconidae,Piciformes,Aves,White-fronted nunbird
+Morphnus_guianensis,Morphnus,Accipitridae,Accipitriformes,Aves,Crested eagle
+Nasua_nasua,Nasua,Procyonidae,Carnivora,Mammalia,South American coati
+Oedipomidas_spp.,Oedipomidas,Callitrichidae,Primates,Mammalia,Tamarin
+Penelope_jacquacu,Penelope,Cracidae,Galliformes,Aves,Spix's guan
+Pipile_cumanensis,Pipile,Cracidae,Galliformes,Aves,Blue-throated piping-guan
+Pithecia_hirsuta,Pithecia,Pitheciidae,Primates,Mammalia,Hairy saki
+Pithecia_irrorata,Pithecia,Pitheciidae,Primates,Mammalia,Gray's bald-faced saki
+Pithecia_monachus,Pithecia,Pitheciidae,Primates,Mammalia,Geoffroy's monk saki
+Plecturocebus_cupreus,Plecturocebus,Pitheciidae,Primates,Mammalia,Coppery titi
+Plecturocebus_toppini,Plecturocebus,Pitheciidae,Primates,Mammalia,Toppin's titi
+Potos_flavus,Potos,Procyonidae,Carnivora,Mammalia,Kinkajou
+Pteroglossus_spp.,Pteroglossus_spp,Ramphastidae,Piciformes,Aves,Aracari
+Pyrrhura_lucianii,Pyrrhura,Psittacidae,Psittaciformes,Aves,Bonaparte's parakeet
+Ramphastos_spp.,Ramphastos_spp,Ramphastidae,Piciformes,Aves,Toucan
+Rodentia_spp.,Rodentia_spp,Rodentia_spp,Rodentia,Mammalia,Rodent
+Saguinus_spp.,Saguinus,Callitrichidae,Primates,Mammalia,Tamarin
+Saimiri_boliviensis,Saimiri,Cebidae,Primates,Mammalia,Bolivian squirrel monkey
+Saimiri_sciureus,Saimiri,Cebidae,Primates,Mammalia,Common squirrel monkey
+Sapajus_apella,Sapajus,Cebidae,Primates,Mammalia,Tufted capuchin monkey
+Sciurus_spadiceus,Sciurus,Sciuridae,Rodentia,Mammalia,Southern Amazon red squirrel
+Selenidera_spp.,Selenidera_spp,Ramphastidae,Piciformes,Aves,Selenidera
+Sittasomus_griseicapillus,Sittasomus,Furnariidae,Passeriformes,Aves,Olivaceus woodcreeper
+Tamandua_tetradactyla,Tamandua,Myrmecophagidae,Pilosa,Mammalia,Collared anteater
+Tamarinus_imperator,Saguinus,Callitrichidae,Primates,Mammalia,Emperor tamarin
+Tamarinus_mystax,Saguinus,Callitrichidae,Primates,Mammalia,Spix's mustached tamarin
