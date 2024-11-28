@@ -4,7 +4,7 @@
 
 ![banner](./assets/readme_banner.jpg)  
 
-Advancing Arboreal Wildlife Monitoring in the Neotropics
+Advancing Arboreal Wildlife Monitoring in the Neotropics with AI
 
 ---
 
