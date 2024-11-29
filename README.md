@@ -10,7 +10,7 @@ Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624)](https://huggingface.co/spaces/andrewzamp/TropiCam-demo)
 
-</div>
+</div
 
 </div align="justify">
 
