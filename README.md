@@ -15,9 +15,9 @@ Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 ## 📜 **Overview**  
 
-Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **TropiCam 1.0** is the first machine learning-based solution specifically designed to automate the classification of **Neotropical arboreal mammals and birds** from camera-trap images.  
+Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **TropiCam-AI** is the first machine learning-based solution specifically designed to automate the classification of **Neotropical arboreal mammals and birds** from camera-trap images.  
 
-Built on the cutting-edge **ConvNeXt architecture**, TropiCam 1.0 provides unparalleled accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in the world's most ecologically diverse regions.  
+Built on the cutting-edge **ConvNeXt architecture**, TropiCam-AI provides unparalleled accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in the world's most ecologically diverse regions.  
 
 ### Key features  
 - 🐒 Automated classification of **70+ arboreal species**.  
@@ -43,4 +43,4 @@ cd TropiCam
 
 # Create and activate the environment  
 conda create -f environment.yaml -y
-conda activate TropiCam
+conda activate TropiCam-AI
