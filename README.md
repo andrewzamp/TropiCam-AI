@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌴 **TropiCam 1.0**  
+# 🌴 **TropiCam-AI**  
 
 ![banner](./assets/readme_banner.jpg)  
 
-Advancing Arboreal Wildlife Monitoring in the Neotropics with AI
+Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 ---
 
