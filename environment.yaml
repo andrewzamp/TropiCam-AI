@@ -1,4 +1,4 @@
-name: TropiCam
+name: TropiCam-AI
 channels:
   - conda-forge
 dependencies:
