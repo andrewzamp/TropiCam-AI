@@ -38,8 +38,8 @@ Built on the cutting-edge **ConvNeXt architecture**, TropiCam-AI provides unpara
 Open a Miniforge or Anaconda command prompt (depending on whether you installed Miniforge or Miniconda), then type:
 ```bash  
 # Clone the repository  
-git clone https://github.com/andrewzamp/TropiCam.git  
-cd TropiCam  
+git clone https://github.com/andrewzamp/TropiCam-AI.git  
+cd TropiCam-AI  
 
 # Create and activate the environment  
 conda create -f environment.yaml -y
