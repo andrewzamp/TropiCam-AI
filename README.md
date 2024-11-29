@@ -12,9 +12,6 @@ Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 </div
 
-</div align="justify">
-
-
 ## 📜 **Overview**  
 
 Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **TropiCam-AI** is the first machine learning-based solution specifically designed to automate the classification of **Neotropical arboreal mammals and birds** from camera-trap images.  
