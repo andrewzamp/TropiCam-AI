@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌴 **NeoTropiCam-AI**  
+# 🌴 **TropiCam-AI**  
 
 ![banner](./assets/readme_banner.jpg)  
 
@@ -14,9 +14,9 @@ Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 ### 📜 **Overview**
 
-Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **NeoTropiCam-AI** is the first machine learning-based solution specifically designed to automate the classification of **Neotropical arboreal mammals and birds** from camera-trap images.  
+Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **TropiCam-AI** is the first machine learning-based solution specifically designed to automate the classification of **Neotropical arboreal mammals and birds** from camera-trap images.  
 
-Built on the cutting-edge **ConvNeXt architecture**, NeoTropiCam-AI provides unparalleled accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in the world's most ecologically diverse regions.  
+Built on the cutting-edge **ConvNeXt architecture**, TropiCam-AI provides unparalleled accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in the world's most ecologically diverse regions.  
 
 ### Key features  
 - 🐒 Automated classification of **50+ arboreal species**.  
@@ -37,9 +37,9 @@ Built on the cutting-edge **ConvNeXt architecture**, NeoTropiCam-AI provides unp
 Open a Miniforge or Anaconda command prompt (depending on whether you installed Miniforge or Miniconda), then type:
 ```bash  
 # Clone the repository  
-git clone https://github.com/andrewzamp/NeoTropiCam-AI.git  
-cd NeoTropiCam-AI  
+git clone https://github.com/andrewzamp/TropiCam-AI.git  
+cd TropiCam-AI  
 
 # Create and activate the environment  
 conda create -f environment.yaml -y
-conda activate NeoTropiCam-AI
+conda activate TropiCam-AI
