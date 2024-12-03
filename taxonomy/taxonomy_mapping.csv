@@ -1,5 +1,6 @@
 ﻿species,genus,family,order,class,common_name
 Alouatta_palliata,Alouatta,Atelidae,Primates,Mammalia,Mantled howler monkey
+Alouatta_sara,Alouatta,Atelidae,Primates,Mammalia,Bolivian red howler monkey
 Alouatta_seniculus,Alouatta,Atelidae,Primates,Mammalia,Red howler monkey
 Aotus_nancymaae,Aotus,Aotidae,Primates,Mammalia,Nancy Ma's night monkey
 Aotus_nigriceps,Aotus,Aotidae,Primates,Mammalia,Black-headed night monkey
@@ -28,7 +29,7 @@ Coendou_prehensilis,Coendou,Erethizontidae,Rodentia,Mammalia,Prehensile-tailed p
 Cyclopes_didactylus,Cyclopes,Cyclopedidae,Pilosa,Mammalia,Silky anteater
 Didelphis_marsupialis,Didelphis,Didelphidae,Didelphimorphia,Mammalia,Common opossum
 Eira_barbara,Eira,Mustelidae,Carnivora,Mammalia,Tayra
-Lagothrix_lagotricha,Lagothrix,Atelidae,Primates,Mammalia,Humboldt's woolly monkey
+Lagothrix_lagothricha,Lagothrix,Atelidae,Primates,Mammalia,Humboldt's woolly monkey
 Leontocebus_fuscicollis,Leontocebus,Callitrichidae,Primates,Mammalia,Spix's saddle-back tamarin
 Leontocebus_nigricollis,Leontocebus,Callitrichidae,Primates,Mammalia,Black-mantled tamarin
 Leontocebus_weddelli,Leontocebus,Callitrichidae,Primates,Mammalia,Weddell's saddle-back tamarin
@@ -46,6 +47,7 @@ Pithecia_hirsuta,Pithecia,Pitheciidae,Primates,Mammalia,Hairy saki
 Pithecia_irrorata,Pithecia,Pitheciidae,Primates,Mammalia,Gray's bald-faced saki
 Pithecia_monachus,Pithecia,Pitheciidae,Primates,Mammalia,Geoffroy's monk saki
 Plecturocebus_cupreus,Plecturocebus,Pitheciidae,Primates,Mammalia,Coppery titi
+Plecturocebus_brunneus,Plecturocebus,Pitheciidae,Primates,Mammalia,Brown titi
 Plecturocebus_toppini,Plecturocebus,Pitheciidae,Primates,Mammalia,Toppin's titi
 Potos_flavus,Potos,Procyonidae,Carnivora,Mammalia,Kinkajou
 Pteroglossus_spp.,Pteroglossus_spp,Ramphastidae,Piciformes,Aves,Aracari
