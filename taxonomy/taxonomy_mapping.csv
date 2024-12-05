@@ -23,7 +23,6 @@ Cebus_albifrons,Cebus,Cebidae,Primates,Mammalia,White-fronted capuchin monkey,sp
 Cebus_imitator,Cebus,Cebidae,Primates,Mammalia,Guianan weeper capuchin monkey,species
 Cebus_olivaceus,Cebus,Cebidae,Primates,Mammalia,Panamanian white-faced capuchin monkey,species
 Celeus_grammicus,Celeus,Picidae,Piciformes,Aves,Scaly-breasted woodpecker,species
-Cheracebus_lucifer,Cheracebus,Pitheciidae,Primates,Mammalia,Yellow-handed titi,species
 Cheracebus_regulus,Cheracebus,Pitheciidae,Primates,Mammalia,Rio Juruá collared titi,species
 Cheracebus_torquatus,Cheracebus,Pitheciidae,Primates,Mammalia,White-collared titi,species
 Chiropotes_spp,Chiropotes,Pitheciidae,Primates,Mammalia,Bearded saki,genus
@@ -56,12 +55,13 @@ Nasua_nasua,Nasua,Procyonidae,Carnivora,Mammalia,South American coati,species
 Oedipomidas_spp,Oedipomidas,Callitrichidae,Primates,Mammalia,Tamarin,genus
 Penelope_jacquacu,Penelope,Cracidae,Galliformes,Aves,Spix's guan,species
 Penelope_marail,Penelope,Cracidae,Galliformes,Aves,Marail guan,species
+Philander_opossum,Philander,Didelphidae,Didelphimorphia,Mammalia,Gray four-eyed opossum,species
 Pipile_cumanensis,Pipile,Cracidae,Galliformes,Aves,Blue-throated piping-guan,species
 Pithecia_hirsuta,Pithecia,Pitheciidae,Primates,Mammalia,Hairy saki,species
 Pithecia_irrorata,Pithecia,Pitheciidae,Primates,Mammalia,Gray's bald-faced saki,species
 Pithecia_monachus,Pithecia,Pitheciidae,Primates,Mammalia,Geoffroy's monk saki,species
-Plecturocebus_cupreus,Plecturocebus,Pitheciidae,Primates,Mammalia,Coppery titi,species
 Plecturocebus_brunneus,Plecturocebus,Pitheciidae,Primates,Mammalia,Brown titi,species
+Plecturocebus_cupreus,Plecturocebus,Pitheciidae,Primates,Mammalia,Coppery titi,species
 Potos_flavus,Potos,Procyonidae,Carnivora,Mammalia,Kinkajou,species
 Psophia_crepitans,Psophia,Psophiidae,Gruiformes,Aves,Grey-winged trumpeter,species
 Psophia_leucoptera,Psophia,Psophiidae,Gruiformes,Aves,Pale-winged trumpeter,species
