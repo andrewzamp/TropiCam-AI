@@ -11,14 +11,14 @@ Ateles_geoffroyi,Ateles,Atelidae,Primates,Mammalia,Central-American spider monke
 Ateles_paniscus,Ateles,Atelidae,Primates,Mammalia,Red-faced spider monkey,species
 Automolus_ochrolaemus,Automolus,Furnariidae,Passeriformes,Aves,Buff-throated foliage-gleaner,species
 Bassaricyon_alleni,Bassaricyon,Procyonidae,Carnivora,Mammalia,Allen's olingo,species
-Brachyteles_spp.,Brachyteles,Atelidae,Primates,Mammalia,Woolly spider monkey,genus
+Brachyteles_spp,Brachyteles,Atelidae,Primates,Mammalia,Woolly spider monkey,genus
 Cacajao_calvus,Cacajao,Pitheciidae,Primates,Mammalia,White bald-headed uacari,species
-Callicebus_spp.,Callicebus,Pitheciidae,Primates,Mammalia,Titi monkey,genus
-Callithrix_spp.,Callithrix,Callitrichidae,Primates,Mammalia,Atlantic forest marmoset,genus
+Callicebus_spp,Callicebus,Pitheciidae,Primates,Mammalia,Titi monkey,genus
+Callithrix_spp,Callithrix,Callitrichidae,Primates,Mammalia,Atlantic forest marmoset,genus
 Caluromys_lanatus,Caluromys,Didelphidae,Didelphimorphia,Mammalia,Bare-tailed woolly opossum,species
 Caluromys_philander,Caluromys,Didelphidae,Didelphimorphia,Mammalia,Brown-eared woolly opossum,species
 Capito_auratus,Capito,Capitonidae,Piciformes,Aves,Gilded barbet,species
-Cebuella_spp.,Cebuella,Callitrichidae,Primates,Mammalia,Pygmy marmoset,genus
+Cebuella_spp,Cebuella,Callitrichidae,Primates,Mammalia,Pygmy marmoset,genus
 Cebus_albifrons,Cebus,Cebidae,Primates,Mammalia,White-fronted capuchin monkey,species
 Cebus_imitator,Cebus,Cebidae,Primates,Mammalia,Guianan weeper capuchin monkey,species
 Cebus_olivaceus,Cebus,Cebidae,Primates,Mammalia,Panamanian white-faced capuchin monkey,species
@@ -26,7 +26,7 @@ Celeus_grammicus,Celeus,Picidae,Piciformes,Aves,Scaly-breasted woodpecker,specie
 Cheracebus_lucifer,Cheracebus,Pitheciidae,Primates,Mammalia,Yellow-handed titi,species
 Cheracebus_regulus,Cheracebus,Pitheciidae,Primates,Mammalia,Rio Juruá collared titi,species
 Cheracebus_torquatus,Cheracebus,Pitheciidae,Primates,Mammalia,White-collared titi,species
-Chiropotes_spp.,Chiropotes,Pitheciidae,Primates,Mammalia,Bearded saki,genus
+Chiropotes_spp,Chiropotes,Pitheciidae,Primates,Mammalia,Bearded saki,genus
 Choloepus_didactylus,Choloepus,Megalonychidae,Pilosa,Mammalia,Southern two-toed sloth,species
 Choloepus_hoffmanni,Choloepus,Megalonychidae,Pilosa,Mammalia,Hoffmann's two-toed sloth,species
 Coendou_bicolor,Coendou,Erethizontidae,Rodentia,Mammalia,Bicolored-spined porcupine,species
@@ -42,18 +42,18 @@ Lagothrix_lagothricha,Lagothrix,Atelidae,Primates,Mammalia,Humboldt's woolly mon
 Leontocebus_fuscicollis,Leontocebus,Callitrichidae,Primates,Mammalia,Spix's saddle-back tamarin,species
 Leontocebus_nigricollis,Leontocebus,Callitrichidae,Primates,Mammalia,Black-mantled tamarin,species
 Leontocebus_weddelli,Leontocebus,Callitrichidae,Primates,Mammalia,Weddell's saddle-back tamarin,species
-Leontopithecus_spp.,Leontopithecus,Cebidae,Primates,Mammalia,Lion tamarin,genus
+Leontopithecus_spp,Leontopithecus,Cebidae,Primates,Mammalia,Lion tamarin,genus
 Leopardus_pardalis,Leopardus,Felidae,Carnivora,Mammalia,Ocelot,species
 Leopardus_wiedii,Leopardus,Felidae,Carnivora,Mammalia,Margay,species
 Marmosa_murina,Marmosa,Didelphidae,Didelphimorphia,Mammalia,Linnaeus's mouse opossum,species
 Marmosops_parvidens,Marmosops,Didelphidae,Didelphimorphia,Mammalia,Delicate slender opossum,species
 Metachirus_nudicaudatus,Metachirus,Didelphidae,Didelphimorphia,Mammalia,Brown four-eyed opossum,species
-Mico_spp.,Mico,Callitrichidae,Primates,Mammalia,Marmoset,genus
+Mico_spp,Mico,Callitrichidae,Primates,Mammalia,Marmoset,genus
 Mitu_tuberosum,Mitu,Cracidae,Galliformes,Aves,Razor-billed curassow,species
 Monasa_morphoeus,Monasa,Bucconidae,Piciformes,Aves,White-fronted nunbird,species
 Morphnus_guianensis,Morphnus,Accipitridae,Accipitriformes,Aves,Crested eagle,species
 Nasua_nasua,Nasua,Procyonidae,Carnivora,Mammalia,South American coati,species
-Oedipomidas_spp.,Oedipomidas,Callitrichidae,Primates,Mammalia,Tamarin,genus
+Oedipomidas_spp,Oedipomidas,Callitrichidae,Primates,Mammalia,Tamarin,genus
 Penelope_jacquacu,Penelope,Cracidae,Galliformes,Aves,Spix's guan,species
 Penelope_marail,Penelope,Cracidae,Galliformes,Aves,Marail guan,species
 Pipile_cumanensis,Pipile,Cracidae,Galliformes,Aves,Blue-throated piping-guan,species
