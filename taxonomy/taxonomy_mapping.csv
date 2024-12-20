@@ -43,8 +43,7 @@ Leontocebus_fuscicollis,Leontocebus,Callitrichidae,Primates,Mammalia,Spix's sadd
 Leontocebus_nigricollis,Leontocebus,Callitrichidae,Primates,Mammalia,Black-mantled tamarin,species
 Leontocebus_weddelli,Leontocebus,Callitrichidae,Primates,Mammalia,Weddell's saddle-back tamarin,species
 Leontopithecus_spp,Leontopithecus,Cebidae,Primates,Mammalia,Lion tamarin,genus
-Leopardus_pardalis,Leopardus,Felidae,Carnivora,Mammalia,Ocelot,species
-Leopardus_wiedii,Leopardus,Felidae,Carnivora,Mammalia,Margay,species
+Leopardus_spp,Leopardus,Felidae,Carnivora,Mammalia,Ocelot,genus
 Marmosa_murina,Marmosa,Didelphidae,Didelphimorphia,Mammalia,Linnaeus's mouse opossum,species
 Marmosops_parvidens,Marmosops,Didelphidae,Didelphimorphia,Mammalia,Delicate slender opossum,species
 Metachirus_nudicaudatus,Metachirus,Didelphidae,Didelphimorphia,Mammalia,Brown four-eyed opossum,species
@@ -70,7 +69,7 @@ Pteroglossus_azara,Pteroglossus,Ramphastidae,Piciformes,Aves,Ivory-billed aracar
 Pteroglossus_beauharnaesii,Pteroglossus,Ramphastidae,Piciformes,Aves,Curl-crested aracari,species
 Pteroglossus_viridis,Pteroglossus,Ramphastidae,Piciformes,Aves,Green aracari,species
 Pyrrhura_lucianii,Pyrrhura,Psittacidae,Psittaciformes,Aves,Bonaparte's parakeet,species
-Ramphastos_spp,Ramphastos,Ramphastidae,Piciformes,Aves,Tucan,species
+Ramphastos_spp,Ramphastos,Ramphastidae,Piciformes,Aves,Tucan,genus
 Saguinus_midas,Saguinus,Callitrichidae,Primates,Mammalia,Red-handed tamarin,species
 Saimiri_boliviensis,Saimiri,Cebidae,Primates,Mammalia,Bolivian squirrel monkey,species
 Saimiri_oerstedii,Saimiri,Cebidae,Primates,Mammalia,Central American squirrel monkey,species
