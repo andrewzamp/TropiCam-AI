@@ -69,9 +69,7 @@ Saimiri_boliviensis,Saimiri,Cebidae,Primates,Mammalia,Bolivian squirrel monkey,s
 Saimiri_oerstedii,Saimiri,Cebidae,Primates,Mammalia,Central American squirrel monkey,species
 Saimiri_sciureus,Saimiri,Cebidae,Primates,Mammalia,Common squirrel monkey,species
 Sapajus_apella,Sapajus,Cebidae,Primates,Mammalia,Tufted capuchin monkey,species
-Sciurillus_pusillus,Sciurillus,Sciuridae,Sciuromorpha,Mammalia,Neotropical pygmy squirrel,species
-Sciurus_aestuans,Sciurus,Sciuridae,Sciuromorpha,Mammalia,Guianan squirrel,species
-Sciurus_spadiceus,Sciurus,Sciuridae,Rodentia,Mammalia,Southern Amazon red squirrel,species
+Sciuridae_spp,Sciuridae_spp,Sciuridae,Sciuromorpha,Mammalia,Squirrel,family
 Selenidera_piperivora,Selenidera,Ramphastidae,Piciformes,Aves,Guianan toucanet,species
 Selenidera_reinwardtii,Selenidera,Ramphastidae,Piciformes,Aves,Golden-collared toucanet,species
 Tamandua_tetradactyla,Tamandua,Myrmecophagidae,Pilosa,Mammalia,Collared anteater,species
