@@ -1,4 +1,5 @@
 ﻿species,genus,family,order,class,common_name,taxonomic_resolution
+Accipitridae_spp,Accipitridae_spp,Accipitridae,Accipitriformes,Aves,Bird of prey,family
 Alouatta_macconnelli,Alouatta,Atelidae,Primates,Mammalia,Guianan red howler monkey,species
 Alouatta_palliata,Alouatta,Atelidae,Primates,Mammalia,Mantled howler monkey,species
 Alouatta_sara,Alouatta,Atelidae,Primates,Mammalia,Bolivian red howler monkey,species
@@ -29,6 +30,7 @@ Choloepus_hoffmanni,Choloepus,Megalonychidae,Pilosa,Mammalia,Hoffmann's two-toed
 Coendou_bicolor,Coendou,Erethizontidae,Rodentia,Mammalia,Bicolored-spined porcupine,species
 Coendou_ichillus,Coendou,Erethizontidae,Rodentia,Mammalia,Western Amazonian dwarf porcupine,species
 Coendou_prehensilis,Coendou,Erethizontidae,Rodentia,Mammalia,Prehensile-tailed porcupine,species
+Columbidae_spp,Columbidae_spp,Columbidae,Columbiformes,Aves,Dove,family
 Crax_alector,Crax,Cracidae,Galliformes,Aves,Black curassow,species
 Cyclopes_didactylus,Cyclopes,Cyclopedidae,Pilosa,Mammalia,Silky anteater,species
 Didelphis_marsupialis,Didelphis,Didelphidae,Didelphimorphia,Mammalia,Common opossum,species
@@ -44,11 +46,14 @@ Marmosops_spp,Marmosops,Didelphidae,Didelphimorphia,Mammalia,Slender opossum,gen
 Metachirus_nudicaudatus,Metachirus,Didelphidae,Didelphimorphia,Mammalia,Brown four-eyed opossum,species
 Mico_spp,Mico,Callitrichidae,Primates,Mammalia,Marmoset,genus
 Mitu_tuberosum,Mitu,Cracidae,Galliformes,Aves,Razor-billed curassow,species
+Momotidae_spp,Momotidae_spp,Momotidae,Coraciiformes,Aves,Motmot,family
 Nasua_nasua,Nasua,Procyonidae,Carnivora,Mammalia,South American coati,species
 Oedipomidas_spp,Oedipomidas,Callitrichidae,Primates,Mammalia,Tamarin,genus
+Passeriformes_spp,Passeriformes_spp,Passeriformes_spp,Passeriformes,Aves,Perching bird,order
 Penelope_jacquacu,Penelope,Cracidae,Galliformes,Aves,Spix's guan,species
 Penelope_marail,Penelope,Cracidae,Galliformes,Aves,Marail guan,species
 Philander_opossum,Philander,Didelphidae,Didelphimorphia,Mammalia,Gray four-eyed opossum,species
+Piciformes_spp,Piciformes_spp,Piciformes_spp,Piciformes,Aves,Woodpecker or relative,order
 Pipile_cumanensis,Pipile,Cracidae,Galliformes,Aves,Blue-throated piping-guan,species
 Pithecia_hirsuta,Pithecia,Pitheciidae,Primates,Mammalia,Hairy saki,species
 Pithecia_irrorata,Pithecia,Pitheciidae,Primates,Mammalia,Gray's bald-faced saki,species
@@ -56,6 +61,7 @@ Pithecia_monachus,Pithecia,Pitheciidae,Primates,Mammalia,Geoffroy's monk saki,sp
 Plecturocebus_brunneus,Plecturocebus,Pitheciidae,Primates,Mammalia,Brown titi,species
 Plecturocebus_cupreus,Plecturocebus,Pitheciidae,Primates,Mammalia,Coppery titi,species
 Potos_flavus,Potos,Procyonidae,Carnivora,Mammalia,Kinkajou,species
+Psittacidae_spp,Psittacidae_spp,Psittacidae,Psittaciformes,Aves,True parrot,family
 Psophia_crepitans,Psophia,Psophiidae,Gruiformes,Aves,Grey-winged trumpeter,species
 Psophia_leucoptera,Psophia,Psophiidae,Gruiformes,Aves,Pale-winged trumpeter,species
 Pteroglossus_azara,Pteroglossus,Ramphastidae,Piciformes,Aves,Ivory-billed aracari,species
