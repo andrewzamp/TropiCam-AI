@@ -10,12 +10,14 @@ Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 [![Publication](https://img.shields.io/badge/Publication-Paper-D95C5C)](https://huggingface.co/spaces/andrewzamp/TropiCam-demo)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624)](https://huggingface.co/spaces/andrewzamp/TropiCam-demo)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Data-11557c)](https://zenodo.org/)
+
 
 </div
 
 Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **TropiCam-AI** is the first machine learning-based solution specifically designed to automate the classification of Neotropical arboreal mammals and birds from camera-trap images and videos. It was released with the publication "**Introducing TropiCam-AI: A taxonomically flexible automated classifier of Neotropical arboreal mammals and birds from camera-trap data**" (URL).
 
-Built on a ConvNeXt architecture and trained on both an extensive camera-trapping dataset and citizen-science images, TropiCam-AI can recognize a 84 taxa of arboreal mammals and birds, and it is optimized with a taxonomic aggregation strategy to return classification at multiple levels of the taxonomy hierarchy (e.g. species, genus, family, class and order) to enhance accuracy, flexibility and generalizability to unseen locations and species. TropiCam-AI aims to provide accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in one of the world's most biodiverse regions.  
+Built on a ConvNeXt architecture and trained on both an extensive camera-trapping dataset and citizen-science images, TropiCam-AI can recognize a 84 taxa of arboreal mammals and birds (see here the full list), and it is optimized with a taxonomic aggregation strategy to return classification at multiple levels of the taxonomy hierarchy (e.g. species, genus, family, class and order) to enhance accuracy, flexibility and generalizability to unseen locations and species. TropiCam-AI aims to provide accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in one of the world's most biodiverse regions.  
 
 ---
 
