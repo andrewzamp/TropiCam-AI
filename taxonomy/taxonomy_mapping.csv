@@ -1,0 +1,85 @@
+﻿species,genus,family,order,class,common_name,taxonomic_resolution
+Accipitridae_spp,Accipitridae_spp,Accipitridae,Accipitriformes,Aves,Bird of prey,family
+Alouatta_macconnelli,Alouatta,Atelidae,Primates,Mammalia,Guianan red howler monkey,species
+Alouatta_palliata,Alouatta,Atelidae,Primates,Mammalia,Mantled howler monkey,species
+Alouatta_sara,Alouatta,Atelidae,Primates,Mammalia,Bolivian red howler monkey,species
+Alouatta_seniculus,Alouatta,Atelidae,Primates,Mammalia,Red howler monkey,species
+Aotus_nancymaae,Aotus,Aotidae,Primates,Mammalia,Nancy Ma's night monkey,species
+Aotus_nigriceps,Aotus,Aotidae,Primates,Mammalia,Black-headed night monkey,species
+Aotus_vociferans,Aotus,Aotidae,Primates,Mammalia,Spix's night monkey,species
+Ateles_chamek,Ateles,Atelidae,Primates,Mammalia,Black spider monkey,species
+Ateles_geoffroyi,Ateles,Atelidae,Primates,Mammalia,Central-American spider monkey,species
+Ateles_paniscus,Ateles,Atelidae,Primates,Mammalia,Red-faced spider monkey,species
+Bassaricyon_alleni,Bassaricyon,Procyonidae,Carnivora,Mammalia,Allen's olingo,species
+Brachyteles_spp,Brachyteles,Atelidae,Primates,Mammalia,Woolly spider monkey,genus
+Bradypus_variegatus,Bradypus,Bradypodidae,Pilosa,Mammalia,Brown-throated three-toed Sloth,species
+Cacajao_calvus,Cacajao,Pitheciidae,Primates,Mammalia,White bald-headed uacari,species
+Callicebus_spp,Callicebus,Pitheciidae,Primates,Mammalia,Titi monkey,genus
+Callimico_goeldii,Callimico,Callitrichidae,Primates,Mammalia,Goeldi's Marmoset,species
+Callithrix_spp,Callithrix,Callitrichidae,Primates,Mammalia,Atlantic forest marmoset,genus
+Caluromys_lanatus,Caluromys,Didelphidae,Didelphimorphia,Mammalia,Bare-tailed woolly opossum,species
+Caluromys_philander,Caluromys,Didelphidae,Didelphimorphia,Mammalia,Brown-eared woolly opossum,species
+Cebuella_spp,Cebuella,Callitrichidae,Primates,Mammalia,Pygmy marmoset,genus
+Cebus_albifrons,Cebus,Cebidae,Primates,Mammalia,White-fronted capuchin monkey,species
+Cebus_imitator,Cebus,Cebidae,Primates,Mammalia,Guianan weeper capuchin monkey,species
+Cebus_olivaceus,Cebus,Cebidae,Primates,Mammalia,Panamanian white-faced capuchin monkey,species
+Cheracebus_regulus,Cheracebus,Pitheciidae,Primates,Mammalia,Rio Juruá collared titi,species
+Cheracebus_torquatus,Cheracebus,Pitheciidae,Primates,Mammalia,White-collared titi,species
+Chiropotes_spp,Chiropotes,Pitheciidae,Primates,Mammalia,Bearded saki,genus
+Choloepus_didactylus,Choloepus,Megalonychidae,Pilosa,Mammalia,Southern two-toed sloth,species
+Choloepus_hoffmanni,Choloepus,Megalonychidae,Pilosa,Mammalia,Hoffmann's two-toed sloth,species
+Coendou_bicolor,Coendou,Erethizontidae,Rodentia,Mammalia,Bicolored-spined porcupine,species
+Coendou_ichillus,Coendou,Erethizontidae,Rodentia,Mammalia,Western Amazonian dwarf porcupine,species
+Coendou_prehensilis,Coendou,Erethizontidae,Rodentia,Mammalia,Prehensile-tailed porcupine,species
+Columbidae_spp,Columbidae_spp,Columbidae,Columbiformes,Aves,Dove,family
+Crax_alector,Crax,Cracidae,Galliformes,Aves,Black curassow,species
+Cyclopes_didactylus,Cyclopes,Cyclopedidae,Pilosa,Mammalia,Silky anteater,species
+Didelphis_marsupialis,Didelphis,Didelphidae,Didelphimorphia,Mammalia,Common opossum,species
+Eira_barbara,Eira,Mustelidae,Carnivora,Mammalia,Tayra,species
+Lagothrix_lagothricha,Lagothrix,Atelidae,Primates,Mammalia,Humboldt's woolly monkey,species
+Leontocebus_fuscicollis,Leontocebus,Callitrichidae,Primates,Mammalia,Spix's saddle-back tamarin,species
+Leontocebus_nigricollis,Leontocebus,Callitrichidae,Primates,Mammalia,Black-mantled tamarin,species
+Leontocebus_weddelli,Leontocebus,Callitrichidae,Primates,Mammalia,Weddell's saddle-back tamarin,species
+Leontopithecus_spp,Leontopithecus,Cebidae,Primates,Mammalia,Lion tamarin,genus
+Leopardus_spp,Leopardus,Felidae,Carnivora,Mammalia,Ocelot,genus
+Marmosa_spp,Marmosa,Didelphidae,Didelphimorphia,Mammalia,Mouse opossum,genus
+Marmosops_spp,Marmosops,Didelphidae,Didelphimorphia,Mammalia,Slender opossum,genus
+Metachirus_nudicaudatus,Metachirus,Didelphidae,Didelphimorphia,Mammalia,Brown four-eyed opossum,species
+Mico_spp,Mico,Callitrichidae,Primates,Mammalia,Marmoset,genus
+Mitu_tuberosum,Mitu,Cracidae,Galliformes,Aves,Razor-billed curassow,species
+Momotidae_spp,Momotidae_spp,Momotidae,Coraciiformes,Aves,Motmot,family
+Nasua_nasua,Nasua,Procyonidae,Carnivora,Mammalia,South American coati,species
+Oedipomidas_spp,Oedipomidas,Callitrichidae,Primates,Mammalia,Tamarin,genus
+Passeriformes_spp,Passeriformes_spp,Passeriformes_spp,Passeriformes,Aves,Perching bird,order
+Penelope_jacquacu,Penelope,Cracidae,Galliformes,Aves,Spix's guan,species
+Penelope_marail,Penelope,Cracidae,Galliformes,Aves,Marail guan,species
+Philander_opossum,Philander,Didelphidae,Didelphimorphia,Mammalia,Gray four-eyed opossum,species
+Piciformes_spp,Piciformes_spp,Piciformes_spp,Piciformes,Aves,Woodpecker or relative,order
+Pipile_cumanensis,Pipile,Cracidae,Galliformes,Aves,Blue-throated piping-guan,species
+Pithecia_hirsuta,Pithecia,Pitheciidae,Primates,Mammalia,Hairy saki,species
+Pithecia_irrorata,Pithecia,Pitheciidae,Primates,Mammalia,Gray's bald-faced saki,species
+Pithecia_monachus,Pithecia,Pitheciidae,Primates,Mammalia,Geoffroy's monk saki,species
+Plecturocebus_brunneus,Plecturocebus,Pitheciidae,Primates,Mammalia,Brown titi,species
+Plecturocebus_cupreus,Plecturocebus,Pitheciidae,Primates,Mammalia,Coppery titi,species
+Potos_flavus,Potos,Procyonidae,Carnivora,Mammalia,Kinkajou,species
+Psittacidae_spp,Psittacidae_spp,Psittacidae,Psittaciformes,Aves,True parrot,family
+Psophia_crepitans,Psophia,Psophiidae,Gruiformes,Aves,Grey-winged trumpeter,species
+Psophia_leucoptera,Psophia,Psophiidae,Gruiformes,Aves,Pale-winged trumpeter,species
+Pteroglossus_azara,Pteroglossus,Ramphastidae,Piciformes,Aves,Ivory-billed aracari,species
+Pteroglossus_beauharnaesii,Pteroglossus,Ramphastidae,Piciformes,Aves,Curl-crested aracari,species
+Pteroglossus_viridis,Pteroglossus,Ramphastidae,Piciformes,Aves,Green aracari,species
+Pyrrhura_lucianii,Pyrrhura,Psittacidae,Psittaciformes,Aves,Bonaparte's parakeet,species
+Ramphastos_spp,Ramphastos,Ramphastidae,Piciformes,Aves,Tucan,genus
+Rodentia_spp,Rodentia_spp,Rodentia_spp,Rodentia,Mammalia,Rodent,order
+Saguinus_midas,Saguinus,Callitrichidae,Primates,Mammalia,Red-handed tamarin,species
+Saimiri_boliviensis,Saimiri,Cebidae,Primates,Mammalia,Bolivian squirrel monkey,species
+Saimiri_oerstedii,Saimiri,Cebidae,Primates,Mammalia,Central American squirrel monkey,species
+Saimiri_sciureus,Saimiri,Cebidae,Primates,Mammalia,Common squirrel monkey,species
+Sapajus_apella,Sapajus,Cebidae,Primates,Mammalia,Tufted capuchin monkey,species
+Sciuridae_spp,Sciuridae_spp,Sciuridae,Sciuromorpha,Mammalia,Squirrel,family
+Selenidera_piperivora,Selenidera,Ramphastidae,Piciformes,Aves,Guianan toucanet,species
+Selenidera_reinwardtii,Selenidera,Ramphastidae,Piciformes,Aves,Golden-collared toucanet,species
+Tamandua_tetradactyla,Tamandua,Myrmecophagidae,Pilosa,Mammalia,Collared anteater,species
+Tamarinus_imperator,Saguinus,Callitrichidae,Primates,Mammalia,Emperor tamarin,species
+Tamarinus_mystax,Saguinus,Callitrichidae,Primates,Mammalia,Spix's mustached tamarin,species
+Trogon_spp,Trogon,Trogonidae,Trogoniformes,Aves,Trogons,genus
