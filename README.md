@@ -42,4 +42,4 @@ We also provide a very simple Gradio [demo](https://huggingface.co/spaces/andrew
 ## How to cite us
 Usage of either the TropiCam-AI model or any data associated to it (e.g. training images) must properly cite the original work in which TropiCam-AI was described and released:
 
-- Zampetti, A., Santini, L., Ferreiro-Arias, I., Paltrinieri, L., Ortiz, I., Cedeño-Panchez, B.A., Baltzinger, C., Beirne, C., Bowler, M.,  Guilbert, E., Kemp, Y.J.M., Peres, C.A., Scabin, A.B., Whitworth, A., & Benítez-López, A. (2025). Introducing TropiCam-AI: A taxonomically flexible automated classifier of Neotropical arboreal mammals and birds from camera-trap data. _Methods in Ecology and Evolution_, In Press
+- Zampetti, A., Santini, L., Ferreiro-Arias, I., Paltrinieri, L., Ortiz, I., Cedeño-Panchez, B.A., Baltzinger, C., Beirne, C., Bowler, M., Forget, P.M.,  Guilbert, E., Kemp, Y.J.M., Peres, C.A., Scabin, A.B., Whitworth, A., & Benítez-López, A. (2025). Introducing TropiCam-AI: A taxonomically flexible automated classifier of Neotropical arboreal mammals and birds from camera-trap data. _Methods in Ecology and Evolution_, In Press
