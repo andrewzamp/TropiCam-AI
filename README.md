@@ -23,7 +23,7 @@ Built on a ConvNeXt architecture and trained on both an extensive camera-trappin
 
 ## How to use it? 
 ### AddaxAI  
-#### NOTE: the article presenting TropiCam-AI has been accepted in _Methods in Ecology and Evolution_ and is currently in production, and the algorithm will be officially released together with the publication (soon!). The next section describe how to use it once it's finally made public.
+#### NOTE: the article presenting TropiCam-AI has been accepted and published in _Methods in Ecology and Evolution_, and the algorithm will be officially released in the upcoming days! The next section describe how to use it once it's finally made public.
 We wanted to make **TropiCam-AI** as easy to use as possible, without needing extensive knowledge on how machine learning algorithms work or coding/programming skills. So, our model is available on the  [**AddaxAI**](https://addaxdatascience.com/addaxai/) platform, a user-friendly and code-free application that allows deployment of machine learning classifiers with the simple click of a button. User can directly install AddaxAI from the official website, and then select our model from the zoo of available algorithms. After classification is finished, results can be made available in a number of different formats: among the most relevant, we highlight CSV/XLSX for direct integration in subsequent analyses, or the default JSON file that can be integrated in the popular [**Timelapse**](https://timelapse.ucalgary.ca/) software for image visualization. 
 
 A **few tips**:
