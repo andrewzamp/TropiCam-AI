@@ -9,7 +9,7 @@ Advancing Arboreal Wildlife Monitoring in the Neotropics
 ---
 
 [![Publication](https://img.shields.io/badge/Publication-Paper-D95C5C)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70213)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Data-11557c)]([https://zenodo.org/](https://zenodo.org/records/17589043))
+[![Zenodo](https://img.shields.io/badge/Zenodo-Data-11557c)](https://zenodo.org/records/17589043)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624)](https://huggingface.co/spaces/andrewzamp/TropiCam-demo)
 
 
