@@ -8,14 +8,14 @@ Advancing Arboreal Wildlife Monitoring in the Neotropics
 
 ---
 
-[![Publication](https://img.shields.io/badge/Publication-Paper-D95C5C)]()
-[![Zenodo](https://img.shields.io/badge/Zenodo-Data-11557c)](https://zenodo.org/)
+[![Publication](https://img.shields.io/badge/Publication-Paper-D95C5C)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70213)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Data-11557c)]([https://zenodo.org/](https://zenodo.org/records/17589043))
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Demo-fcc624)](https://huggingface.co/spaces/andrewzamp/TropiCam-demo)
 
 
 </div
 
-Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **TropiCam-AI** is the first machine learning-based solution specifically designed to automate the classification of Neotropical arboreal mammals and birds from camera-trap images and videos. It was released with the publication "**Introducing TropiCam-AI: A taxonomically flexible automated classifier of Neotropical arboreal mammals and birds from camera-trap data**" (accepted in _Methods in Ecology and Evolution_, in production).
+Surveying arboreal wildlife in tropical rainforests has long been a challenging endeavor. **TropiCam-AI** is the first machine learning-based solution specifically designed to automate the classification of Neotropical arboreal mammals and birds from camera-trap images and videos. It was released with the publication "**Introducing TropiCam-AI: A taxonomically flexible automated classifier of Neotropical arboreal mammals and birds from camera-trap data**" in _Methods in Ecology and Evolution_ (https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70213).
 
 Built on a ConvNeXt architecture and trained on both an extensive camera-trapping dataset and citizen-science images (which can be found on our [Zenodo](https://zenodo.org/) repository), TropiCam-AI can recognize a 84 taxa of arboreal mammals and birds (see [here](https://github.com/andrewzamp/TropiCam-AI/blob/main/taxonomy/taxonomy_mapping.csv) the full list), and it is optimized with a taxonomic aggregation strategy to return classification at multiple levels of the taxonomy hierarchy (e.g. species, genus, family, class and order) to enhance accuracy, flexibility and generalizability to unseen locations and species. TropiCam-AI aims to provide accuracy, flexibility, and ease of use for researchers and conservationists working to preserve biodiversity in one of the world's most biodiverse regions.  
 
@@ -43,4 +43,4 @@ We also provide a very simple Gradio [demo](https://huggingface.co/spaces/andrew
 ## How to cite us
 Usage of either the TropiCam-AI model or any data associated to it (e.g. training images) must properly cite the original work in which TropiCam-AI was described and released:
 
-- Zampetti, A., Santini, L., Ferreiro-Arias, I., Paltrinieri, L., Ortiz, I., Cedeño-Panchez, B.A., Baltzinger, C., Beirne, C., Bowler, M., Forget, P.M.,  Guilbert, E., Kemp, Y.J.M., Peres, C.A., Scabin, A.B., Whitworth, A., & Benítez-López, A. (2025). Introducing TropiCam-AI: A taxonomically flexible automated classifier of Neotropical arboreal mammals and birds from camera-trap data. _Methods in Ecology and Evolution_, In Production
+- Zampetti, A., Santini, L., Ferreiro-Arias, I., Paltrinieri, L., Ortiz, I., Cedeño-Panchez, B.A., Baltzinger, C., Beirne, C., Bowler, M., Forget, P.M.,  Guilbert, E., Kemp, Y.J.M., Peres, C.A., Scabin, A.B., Whitworth, A., & Benítez-López, A. (2025). Introducing TropiCam-AI: A taxonomically flexible automated classifier of Neotropical arboreal mammals and birds from camera-trap data. _Methods in Ecology and Evolution_. https://doi.org/10.1111/2041-210x.70213
